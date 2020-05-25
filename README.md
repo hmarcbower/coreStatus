@@ -1,0 +1,2 @@
+# coreStatus
+Testing corestatus pages
